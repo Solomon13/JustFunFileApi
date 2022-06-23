@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/JustFunFileApi/.vs/JustFunFileApi
+/JustFunFileApi/JustFunFileApi/bin
+/JustFunFileApi/JustFunFileApi/obj

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustFunFileApi", "WebApplication1\JustFunFileApi.csproj", "{099DA2A3-F2DD-4DA3-B115-3E0E4C12C913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{099DA2A3-F2DD-4DA3-B115-3E0E4C12C913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099DA2A3-F2DD-4DA3-B115-3E0E4C12C913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099DA2A3-F2DD-4DA3-B115-3E0E4C12C913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099DA2A3-F2DD-4DA3-B115-3E0E4C12C913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F19F5CA-B1E8-433A-B59C-663AD800F153}
+	EndGlobalSection
+EndGlobal
